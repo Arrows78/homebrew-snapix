@@ -1,6 +1,6 @@
 cask "snapix" do
-  version "1.0.0"
-  sha256 "5671253368ba692b8fbed74c4e45028703314a006d6d26cf96a1b18961675408"
+  version "1.1.0"
+  sha256 "479e1daf0cf6e482b882138e9553e40840729c4d5b7e6c3b06cab6dc7cdf7377"
 
   url "https://github.com/Arrows78/Snapix/releases/download/v#{version}/Snapix-#{version}.zip"
   name "Snapix"
